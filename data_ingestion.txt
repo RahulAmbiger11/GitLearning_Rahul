@@ -1,2 +1,5 @@
 Hey, i am ingesting the data in this file.
+<<<<<<< HEAD
 Master user here. Let me also contribute to this project.
+=======
+>>>>>>> feature_rahul_1
